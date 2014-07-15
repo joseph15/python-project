@@ -1,0 +1,20 @@
+Metadata-Version: 1.1
+Name: project
+Version: 1.0
+Summary: Project Sample
+Author: Joseph15
+Author-email: joseph15@yeah.net
+Home-page: http://www.xxx.org/
+License: UNKNOWN
+Description: Project Sample
+Platform: UNKNOWN
+Classifier: Environment :: Project
+Classifier: Intended Audience :: Information Technology
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Topic :: System :: Monitoring
