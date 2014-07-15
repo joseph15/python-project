@@ -1,4 +1,4 @@
-Project
-==========
+python-project
+==============
 
-This a sample for construct a python project! 
+This is a sample for construct python project.
